@@ -65,7 +65,11 @@
         display: none;}
 
     .container__botão{
-        display: none;}    
+        display: none;}
+        
+    .container__botão:checked~.lista-menu{
+        display: block;}
+        
 
 
 
