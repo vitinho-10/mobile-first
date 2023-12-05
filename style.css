@@ -1,3 +1,4 @@
+@import url('style/reset.css');
 @import url('style/header.css');
  @import url('style/banner.css');
     :root{
@@ -6,8 +7,8 @@
         --amarelo:#FECD2F;
         --roxo:#810a98;
         --preto:#000000;
-        --fonte-principal:"Poppins"
-        --fonte-secundaria: "Josefin Sans"
+        --fonte-principal:"Poppins";
+        --fonte-secundaria: "Josefin Sans";
 
     }
   body{
